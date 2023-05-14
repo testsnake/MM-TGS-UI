@@ -1,0 +1,6 @@
+enabled = true
+name = "tgs-ui"
+description = "Brings the UI from the Tokyo Game Show build of Mega Mix to Mega Mix+"
+version = "0.0.0"
+date = "12.05.2023"
+include = ["."]
